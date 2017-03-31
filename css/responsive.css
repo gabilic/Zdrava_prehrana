@@ -1,0 +1,195 @@
+@media screen and (max-width: 700px) {
+    .m_input {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 100%;
+    }
+    
+    .m_left_input_10 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 10%;
+    }
+    
+    .m_left_input_15 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 15%;
+    }
+    
+    .m_left_input_20 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 20%;
+    }
+    
+    .m_left_input_25 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 25%;
+    }
+    
+    .m_left_input_40 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 40%;
+    }
+    
+    .m_left_input_50 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 50%;
+    }
+    
+    .m_left_input_60 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 60%;
+    }
+    
+    .m_left_input_66_5 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 66.5%;
+    }
+    
+    .m_middle_input_10 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 10%;
+    }
+
+    .m_middle_input_20 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 20%;
+    }
+    
+    .m_middle_input_25 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 25%;
+    }
+    
+    .m_middle_input_30 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 30%;
+    }
+    
+    .m_middle_input_40 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 40%;
+    }
+    
+    .m_right_input_10 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 10%;
+    }
+    
+    .m_right_input_15 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 15%;
+    }
+    
+    .m_right_input_20 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 20%;
+    }
+    
+    .m_right_input_33_5 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 33.5%;
+    }
+    
+    .m_right_input_40 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 40%;
+    }
+
+    .m_right_input_50 {
+        padding-left: 0.1em!important;
+        padding-right: 0.1em!important;
+        float: left;
+        width: 50%;
+    }
+    
+    .m_novi_red {
+        clear: both;
+    }
+    
+    .m_prijava_input {
+        width: 100%;
+        display: initial;
+    }
+    
+    .m_padding_small {
+        padding: 0.01em 0.2em;
+    }
+    
+    .m_razmak_ld {
+        padding-left: 7.5px;
+        padding-right: 7.5px;
+    }
+}
+
+@media screen and (min-width: 321px) and (max-width: 380px) {
+    .m_home_heading_1 {
+        font-size: 56px!important;
+    }
+}
+
+@media screen and (min-width: 276px) and (max-width: 320px) {
+    .m_home_heading_1 {
+        font-size: 48px!important;
+    }
+    
+    .m_home_heading_2 {
+        font-size: 17px!important;
+    }
+}
+
+@media screen and (min-width: 231px) and (max-width: 275px) {
+    .m_home_heading_1 {
+        font-size: 40px!important;
+    }
+    
+    .m_home_heading_2 {
+        font-size: 16px!important;
+    }
+}
+
+@media screen and (max-width: 230px) {
+    .m_home_heading_1 {
+        font-size: 32px!important;
+    }
+    
+    .m_home_heading_2 {
+        font-size: 15px!important;
+    }
+}

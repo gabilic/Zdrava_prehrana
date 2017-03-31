@@ -1,0 +1,288 @@
+body, h1 {
+    font-family: "Railway", "Arial";
+}
+
+body, html {
+    height: 100%;
+}
+
+.administracija_input {
+    display: inline-block;
+    width: 25%;
+    padding-right: 1em;
+}
+
+.background {
+    background-image: url("../img/pozadina.jpg");
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.background_2 {
+    background-image: url("../img/pozadina2.png")
+}
+
+.back_overlay {
+    background-image: url("../img/black-medium-checks.png");
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: .2;
+}
+
+.button {
+    background-color: #88251E!important;
+}
+
+.button_refresh {
+    color: #30A4C5;
+    float: left;
+    margin-top: 10px;
+}
+
+.button_refresh:hover {
+    color: #0677D0;
+}
+
+.button_remove {
+    color: #E63B26;
+    float: left;
+    margin-top: 1.5px;
+    margin-left: 4px;
+    font-size: 1.7em;
+}
+
+.button_remove:hover {
+    color: #CC2813;
+}
+
+.button_disabled {
+    color: #888888!important;
+}
+
+#container {
+    min-height: 100%;
+    position: relative;
+}
+
+.dizajn_vrsta_proizvoda a {
+    display: none!important;
+}
+
+#dizajn_proizvodi ul li:hover .dizajn_vrsta_proizvoda a {
+    display: block!important;
+}
+
+#dizajn_proizvodi ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#dizajn_proizvodi ul li {
+    width: 100%;
+    list-style: none;
+}
+
+.error_red {
+    border-color: #FF7676!important;
+    color: #FF0000;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 95px;
+    padding-top: 5px;
+    background-color: #88251E;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.gumb_kosarica {
+    border: none;
+    outline: 0;
+    padding: 6px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none!important;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.nav_mob_border {
+    border-top-width: 1px;
+    border-top-style: inset;
+}
+
+.left_input_7_5 {
+    padding-right: 0.5em;
+    float: left;
+    width: 7.5%;
+}
+
+.left_input_10 {
+    padding-right: 0.5em;
+    float: left;
+    width: 10%;
+}
+
+.left_input_15 {
+    padding-right: 0.5em;
+    float: left;
+    width: 15%;
+}
+
+.left_input_20 {
+    padding-right: 0.5em;
+    float: left;
+    width: 20%;
+}
+
+.left_input_25 {
+    padding-right: 0.5em;
+    float: left;
+    width: 25%;
+}
+
+.left_input_40 {
+    padding-right: 0.5em;
+    float: left;
+    width: 40%;
+}
+
+.left_input_45 {
+    padding-right: 0.5em;
+    float: left;
+    width: 45%;
+}
+
+.left_input_50 {
+    padding-right: 0.5em;
+    float: left;
+    width: 50%;
+}
+
+.left_input_66_5 {
+    padding-right: 0.5em;
+    float: left;
+    width: 66.5%;
+}
+
+.middle_input_10 {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    float: left;
+    width: 10%;
+}
+
+.middle_input_15 {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    float: left;
+    width: 15%;
+}
+
+.middle_input_20 {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    float: left;
+    width: 20%;
+}
+
+.middle_input_25 {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    float: left;
+    width: 25%;
+}
+
+.middle_input_30 {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    float: left;
+    width: 30%;
+}
+
+.middle_input_40 {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    float: left;
+    width: 40%;
+}
+
+.right_input_7_5 {
+    padding-left: 0.5em;
+    float: left;
+    width: 7.5%;
+}
+
+.right_input_10 {
+    padding-left: 0.5em;
+    float: left;
+    width: 10%;
+}
+
+.right_input_15 {
+    padding-left: 0.5em;
+    float: left;
+    width: 15%;
+}
+
+.right_input_20 {
+    padding-left: 0.5em;
+    float: left;
+    width: 20%;
+}
+
+.right_input_33_5 {
+    padding-left: 0.5em;
+    float: left;
+    width: 33.5%;
+}
+
+.right_input_40 {
+    padding-left: 0.5em;
+    float: left;
+    width: 40%;
+}
+
+.right_input_50 {
+    padding-left: 0.5em;
+    float: left;
+    width: 50%;
+}
+
+.prijava_input {
+    width: 50%;
+    display: initial;
+}
+
+.proizvod_opg:active {
+    color: #88251E;
+    text-decoration: none;
+}
+
+.proizvod_opg:hover {
+    color: #88251E;
+    text-decoration: none;
+}
+
+.proizvod_opg:link {
+    color: #88251E;
+    text-decoration: none;
+}
+
+.proizvod_opg:visited {
+    color: #88251E;
+    text-decoration: none;
+}
+
+.red {
+    color: #88251E!important;
+}
